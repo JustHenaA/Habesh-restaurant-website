@@ -1,0 +1,43 @@
+{
+  "Appetizers": [
+    {
+      "name": "Sambusa Trio",
+      "description": "Crisp pastries filled with lentils, berbere-spiced beef, and spinach.",
+      "price": 8.5
+    },
+    {
+      "name": "Azifa",
+      "description": "Chilled green lentil salad with jalapeño, lime, and herbs.",
+      "price": 7.0
+    }
+  ],
+  "Entrees": [
+    {
+      "name": "Doro Wat",
+      "description": "Slow-cooked chicken stew in berbere sauce, served with injera.",
+      "price": 18.0
+    },
+    {
+      "name": "Zigni",
+      "description": "Eritrean-style spicy beef stew with tomatoes, garlic, and house spice blend.",
+      "price": 19.5
+    },
+    {
+      "name": "Vegetarian Combination",
+      "description": "Misir wat, atkilt, gomen, and shiro served atop fresh injera.",
+      "price": 16.0
+    }
+  ],
+  "Drinks": [
+    {
+      "name": "Ethiopian Coffee Ceremony Pot",
+      "description": "Freshly roasted beans brewed in a jebena and served traditionally.",
+      "price": 9.0
+    },
+    {
+      "name": "Tej Mocktail",
+      "description": "Honey, citrus, ginger, and sparkling water.",
+      "price": 6.5
+    }
+  ]
+}
